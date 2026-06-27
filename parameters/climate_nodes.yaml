@@ -1,0 +1,72 @@
+- id: Temperature
+  name: Temperature
+  category: Climate
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Temperature
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Rainfall
+  name: Rainfall
+  category: Climate
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Rainfall
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Drought
+  name: Drought
+  category: Climate
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Drought
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Heatwave
+  name: Heatwave
+  category: Climate
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Heatwave
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Flood
+  name: Flood
+  category: Climate
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Flood
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Wildfire
+  name: Wildfire
+  category: Climate
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Wildfire
+  data_source: Placeholder
+  calibration_status: Synthetic

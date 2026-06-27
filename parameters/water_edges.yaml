@@ -1,0 +1,30 @@
+edges:
+  - source: Drought_Index
+    target: Reservoir_Levels
+    strength: -0.80
+    lag: 2
+    confidence: 0.90
+    evidence_level: "PeerReviewed"
+    citation: "Scanlon et al., 2012. Groundwater depletion and sustainability of irrigation in the US High Plains and Central Valley."
+    doi: "10.1073/pnas.1200311109"
+    dataset_source: "USGS WaterData"
+    calibration_method: "Spearman Rank"
+    geographic_scope: "North America"
+    temporal_coverage: "1950-2010"
+    last_updated: "2026-06-27"
+    notes: "Droughts take approximately 2 quarters (lag 2) to fully manifest in deep reservoir drawdowns."
+
+  - source: Temperature
+    target: Water_Stress
+    strength: 0.65
+    lag: 1
+    confidence: 0.85
+    evidence_level: "ExpertKnowledge"
+    citation: "IPCC AR6 WG2 Report, Chapter 4."
+    doi: "N/A"
+    dataset_source: "FAO AQUASTAT"
+    calibration_method: "Bayesian Updating"
+    geographic_scope: "Global"
+    temporal_coverage: "1990-2020"
+    last_updated: "2026-06-27"
+    notes: "Increased evapotranspiration directly drives agricultural water stress."

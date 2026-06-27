@@ -1,0 +1,1 @@
+# Counterfactual Validation\n\nValidates deterministic search mechanics.

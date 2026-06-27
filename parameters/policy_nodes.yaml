@@ -1,0 +1,36 @@
+- id: Disaster_Relief
+  name: Disaster Relief
+  category: Policy
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Disaster_Relief
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Subsidies
+  name: Subsidies
+  category: Policy
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Subsidies
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Climate_Adaptation
+  name: Climate Adaptation
+  category: Policy
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Climate_Adaptation
+  data_source: Placeholder
+  calibration_status: Synthetic

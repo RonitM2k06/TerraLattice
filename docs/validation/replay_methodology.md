@@ -1,0 +1,1 @@
+# Replay Methodology\n\nDefines Mode 1 (Deterministic) and Mode 2 (Monte Carlo), plus the 7-factor weighted Historical Agreement Score.\n

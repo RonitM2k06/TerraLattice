@@ -1,0 +1,36 @@
+- id: Food_Prices
+  name: Food Prices
+  category: Food
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Food_Prices
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Food_Availability
+  name: Food Availability
+  category: Food
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Food_Availability
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Food_Security_Index
+  name: Food Security Index
+  category: Food
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Food_Security_Index
+  data_source: Placeholder
+  calibration_status: Synthetic

@@ -1,0 +1,36 @@
+- id: Migration
+  name: Migration
+  category: Society
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Migration
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Poverty
+  name: Poverty
+  category: Society
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Poverty
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Political_Stability
+  name: Political Stability
+  category: Society
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Political_Stability
+  data_source: Placeholder
+  calibration_status: Synthetic

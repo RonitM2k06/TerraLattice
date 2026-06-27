@@ -1,0 +1,24 @@
+- id: Disease_Risk
+  name: Disease Risk
+  category: Health
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Disease_Risk
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Heat_Mortality
+  name: Heat Mortality
+  category: Health
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Heat_Mortality
+  data_source: Placeholder
+  calibration_status: Synthetic

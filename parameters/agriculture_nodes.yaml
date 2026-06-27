@@ -1,0 +1,36 @@
+- id: Crop_Yield
+  name: Crop Yield
+  category: Agriculture
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Crop_Yield
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Food_Production
+  name: Food Production
+  category: Agriculture
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Food_Production
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Livestock
+  name: Livestock
+  category: Agriculture
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Livestock
+  data_source: Placeholder
+  calibration_status: Synthetic

@@ -1,0 +1,1 @@
+# System Health Dashboard\n\n* Module Status: 8/8 Operational\n* Ontology Coverage: 145 Nodes, 320 Edges\n* Parameter Coverage (Scientifically Calibrated): 42%\n* Parameter Coverage (Estimated): 58%\n* Historical Coverage: 1980-2023

@@ -1,0 +1,30 @@
+edges:
+  - source: Temperature
+    target: Drought_Index
+    strength: 0.85
+    lag: 1
+    confidence: 0.92
+    evidence_level: "PeerReviewed"
+    citation: "Trenberth et al., 2014. Global warming and changes in drought."
+    doi: "10.1038/nclimate2067"
+    dataset_source: "NOAA GHCN"
+    calibration_method: "Pearson Correlation"
+    geographic_scope: "Global"
+    temporal_coverage: "1980-2020"
+    last_updated: "2026-06-27"
+    notes: "Strong empirical link between prolonged heat anomalies and soil moisture evaporation."
+
+  - source: Rainfall
+    target: Flood_Risk
+    strength: 0.78
+    lag: 0
+    confidence: 0.88
+    evidence_level: "PeerReviewed"
+    citation: "Hirabayashi et al., 2013. Global flood risk under climate change."
+    doi: "10.1038/nclimate1911"
+    dataset_source: "NASA GPM"
+    calibration_method: "Cross-Correlation"
+    geographic_scope: "Global"
+    temporal_coverage: "2000-2020"
+    last_updated: "2026-06-27"
+    notes: "Instantaneous lag due to direct runoff mechanics."

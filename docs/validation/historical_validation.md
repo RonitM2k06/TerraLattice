@@ -1,0 +1,1 @@
+# Historical Validation Report\n\n## Expected Scientific Narrative\n\n## Expected Cascade\n\n## Actual Cascade\n\n## Node Comparison\n\n## Module Comparison\n\n## Agreement Score\n\n## Failure Analysis\n\n## Recommended Parameter Updates\n

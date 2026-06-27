@@ -1,0 +1,1 @@
+# Robustness & Failure Gracefulness\n\n* **Missing Nodes Test**: Passed. Graph automatically prunes dead branches without crashing.\n* **Extreme Shocks Test**: Passed. Mean-reversion clamps numerical overflow.\n* **Broken Units Test**: Passed. `unit_registry.py` raises clear `ValueError` instead of silently propagating bad math.

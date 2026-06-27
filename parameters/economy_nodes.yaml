@@ -1,0 +1,36 @@
+- id: GDP
+  name: GDP
+  category: Economy
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for GDP
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Inflation
+  name: Inflation
+  category: Economy
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Inflation
+  data_source: Placeholder
+  calibration_status: Synthetic
+- id: Employment
+  name: Employment
+  category: Economy
+  unit: Index
+  baseline: 100.0
+  minimum: 0.0
+  maximum: 200.0
+  volatility: 0.1
+  mean_reversion: 0.1
+  description: Index for Employment
+  data_source: Placeholder
+  calibration_status: Synthetic

@@ -1,0 +1,1 @@
+# Parameter Update Recommendations\n\nAnalyzes current YAML vs Calibration Engine findings.\n\n| Edge | Current Strength | Suggested | Current Lag | Suggested | Confidence Diff | Reason |\n|---|---|---|---|---|---|---|\n| Temp -> Heatwave | 1.0 | 0.95 | 1 | 1 | +0.02 | High Pearson |\n

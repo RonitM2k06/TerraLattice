@@ -1,0 +1,1 @@
+# Calibration Methodology\n\nUses Pearson, Spearman, and Cross Correlation to learn strengths and lag from aligned multivariate timeseries.

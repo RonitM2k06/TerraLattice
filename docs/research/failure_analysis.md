@@ -1,0 +1,1 @@
+# Automated Failure Analysis\n\nDetects missing nodes, edges, incorrect lags, ontology gaps.\n

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+authors:
+- family-names: "Mongia"
+  given-names: "Ronit"
+  affiliation: "Amity University, Noida, India"
+title: "TerraLattice: A Climate-Economy-Society Digital Twin for Cascading Risk Simulation"
+version: 1.0.0
+date-released: 2026-06-27
+url: "https://github.com/RonitM2k06/Genealogy_Ai"

@@ -1,0 +1,1 @@
+# Data Quality Scoring\n\nScoring mechanism (0-100) based on completeness, continuity, physical validity.
